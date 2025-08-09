@@ -1,3 +1,1 @@
-[# rakshabandhan
-
-](https://amituttammeshram.github.io/rakshabandhan/)
+https://amituttammeshram.github.io/rakshabandhan/
